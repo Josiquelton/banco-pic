@@ -1,0 +1,71 @@
+*{
+  background-color: #DCDCDC;
+}
+
+
+/* Titulo Principal*/
+
+.titleMain{
+  margin-top: -250px;
+  margin-left: 600px;
+  display: flex;
+  justify-content: space-around;
+  
+}
+
+.titleMain h1{
+  color: #2F4F4F;
+}
+
+.titleMain h3{
+  color: #2F4F4F;
+  font-size: 15px;
+  font-family: Arial;
+  margin-top: 100px;
+  margin-left: -150px;
+  padding-top: 20px;
+}
+
+.titleMain img{
+  width: 150px;
+  margin-left: 120px;
+  border-radius: 65px;
+
+}
+
+
+/* Formulário*/
+
+.form{
+  margin-left: 550px;
+}
+
+.form #input{
+  width: 280px;
+  height: 30px;
+  border-radius: 8px;
+  background-color: #2F4F4F;
+}
+
+::placeholder{
+  color: #FFFFFF;
+  padding-left: 5px;
+}
+
+.form h5{
+  color: #2F4F4F;
+}
+
+.form span{
+  padding-left: 68px;
+}
+
+/* Button */
+
+.form button{
+  width: 280px;
+  color: #2F4F4F;
+  font-size: 15px;
+  font-family: Arial;
+  background-color: #00FF7F;
+}
